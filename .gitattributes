@@ -12861,3 +12861,11 @@
 /rize-up/Library/SourceAssetDB filter=lfs diff=lfs merge=lfs -text
 /rize-up/Library/SourceAssetDB-lock filter=lfs diff=lfs merge=lfs -text
 /rize-up/Library/expandedItems filter=lfs diff=lfs merge=lfs -text
+/raindrop/Library/Artifacts/68/687be4296cae890b43d50d7470e3c0dd filter=lfs diff=lfs merge=lfs -text
+/raindrop/Temp/FSTimeGet-7f11a439226df4d588f5d2eef7de8093 filter=lfs diff=lfs merge=lfs -text
+/raindrop/Temp/FSTimeGet-bbbc6a4b4a9304ffe8d48380a82eb520 filter=lfs diff=lfs merge=lfs -text
+/raindrop/Temp/FSTimeGet-ff3ff31d79fa64f4bbfb5db414bd8cd4 filter=lfs diff=lfs merge=lfs -text
+/raindrop/Temp/PropertyDatabase_1265138678 filter=lfs diff=lfs merge=lfs -text
+/raindrop/Temp/PropertyDatabase_2066312223 filter=lfs diff=lfs merge=lfs -text
+/raindrop/Temp/UnityLockfile filter=lfs diff=lfs merge=lfs -text
+/raindrop/Temp/workerlic filter=lfs diff=lfs merge=lfs -text
