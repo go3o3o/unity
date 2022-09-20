@@ -12869,3 +12869,4 @@
 /raindrop/Temp/PropertyDatabase_2066312223 filter=lfs diff=lfs merge=lfs -text
 /raindrop/Temp/UnityLockfile filter=lfs diff=lfs merge=lfs -text
 /raindrop/Temp/workerlic filter=lfs diff=lfs merge=lfs -text
+/rize-up/gitignore filter=lfs diff=lfs merge=lfs -text
